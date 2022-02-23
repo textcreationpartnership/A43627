@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lay-clergy, or, The lay-elder in a short essay in answer to this query : whether it be lawful for persons in holy orders to exercise temporal offices, honours, jurisdictions and authorities : with arguments and objections on both sides, poyz'd and indifferently weigh'd / by Edm. Hickeringil ...</title>
+            <author>Hickeringill, Edmund, 1631-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43627</idno>
+            <idno type="STC">Wing H1818</idno>
+            <idno type="STC">ESTC R10850</idno>
+            <idno type="EEBO-CITATION">11821282</idno>
+            <idno type="OCLC">ocm 11821282</idno>
+            <idno type="VID">49577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49577)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lay-clergy, or, The lay-elder in a short essay in answer to this query : whether it be lawful for persons in holy orders to exercise temporal offices, honours, jurisdictions and authorities : with arguments and objections on both sides, poyz'd and indifferently weigh'd / by Edm. Hickeringil ...</title>
+                  <author>Hickeringill, Edmund, 1631-1708.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Political activity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49577:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Lay-Clergy:</hi> OR, The Lay-Elder. In a Short ESSAY IN ANSWER To this <hi>Q<g ref="char:V">Ʋ</g>ERY; Whether it be Lawful for</hi> Perſons in Holy Orders <hi>to Exerciſe</hi> Temporal Offices, Honours, Juriſdictions <hi>and</hi> Authorities.</p>
+            <p>With Arguments and Objections <hi>on both ſides,</hi> Poyz'd, and <hi>Indifferently</hi> Weigh'd.</p>
+            <q>
+               <p>Man! who made me a Judge, or a Divider over you?</p>
+               <bibl>
+                  <hi>Luke 12.14.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>Edm. Hickeringil,</hi> Rector of the Rectory of <hi>All-Saints</hi> in <hi>Colcheſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Dunton,</hi> at the <hi>Raven</hi> in <hi>Jewen-Street,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:49577:2"/>
+            <pb n="3" facs="tcp:49577:2"/>
+            <head>
+               <hi>The Lay-Clergy:</hi> OR, The Lay-Elder. BEING An ESSAY Upon this Queſtion, Quer. <hi>Whether it be Lawful for</hi> Perſons in Holy Orders, <hi>to Exerciſe and Enjoy</hi> Temporal <hi>Offices, Honors, Juriſdictions, and Authorities?</hi>
+            </head>
+            <p>
+               <hi>INtereſt,</hi> which (by <hi>bribing</hi> mens Judgments) <hi>rules the World,</hi> ought to have neither place nor vote in thoſe that write or read, Judg or Determin this Queſtion.</p>
+            <p>Self-intereſt <hi>ſometimes does</hi> (as it always <hi>ſhould</hi>) <hi>give place</hi> to right Reaſoning and Truth; but, uſually, the Bowl follows the Byas, right or wrong; ſo does our Judg<g ref="char:EOLhyphen"/>ments, Wills and Affections commonly lean to the <hi>Swell'd-ſide,</hi> byaſſed with Profit and Honor.</p>
+            <p>Thus Avarice and Ambition in Clergy-men, are apt to tempt them to worldly undertakings, temporal affairs and employments, unſuitable to their Coats, and unbecoming their Holy Profeſſion; all which are Reſtrained and Prohi<g ref="char:EOLhyphen"/>bited
+<pb n="4" facs="tcp:49577:3"/>in ſeveral particular Caſes by the Canon-Law, and Statute-Law, eſpecially by that Statute made for that pur<g ref="char:EOLhyphen"/>poſe, 21. <hi>Hen.</hi> 8.13.</p>
+            <p>Yet, neither that Statute, nor any other Law, <hi>now in force,</hi> reaches at any Prohibition of Temporal Juriſdictions and Au<g ref="char:EOLhyphen"/>thorities to be exerciſed by Spiritual Perſons, reſtraining them only from Farming and Merchandizing, except in ſome caſes, and for their own neceſſaries; for Clergy-men alone were Lord Chancellors, Maſters of the Rolls, Lord Trea<g ref="char:EOLhyphen"/>ſurers, <hi>&amp;c.</hi> long after that Statute was made.</p>
+            <p>But, on the contrary, Envy and Avarice in the Laity, are apt to make a Monopoly of all Temporal Offices and Honours, Priviledges, Preheminence and Authorities to themſelves alone, excluding the Clergy; but by what Law, Divine or Human, by what Reaſon, Juſtice or Equity, ſhall now here be impartially enquired.</p>
+            <p>And to that purpoſe I will recite the ſtrongeſt Arguments and Objections that have been urged againſt Clergy-mens Exerciſing Temporal Juriſdictions and Authorities, with An<g ref="char:EOLhyphen"/>ſwers thereunto.</p>
+            <p>
+               <hi>Obj.</hi> 1. Firſt, Some have objected that All-mighty God does not bleſs Affairs of State in the Hands of Church-men, witneſs (ſay they) theſe grand miſcarriages in Government, when Arch-biſhop <hi>Laud</hi> was <hi>chief Miniſter of State</hi> to King <hi>Chalres</hi> I.</p>
+            <p>
+               <hi>Anſ.</hi> It muſt be confeſt, <hi>that in a fatal Hour</hi> (after the Duke of <hi>Buckingham</hi> (chief Minion and Favourite to King <hi>Charles</hi> I.) was ſtab'd at <hi>Portſ-mouth, Anno.</hi> 1630.) ſucceeded <hi>Laud</hi> Arch-Biſhop of <hi>Canterbury,</hi> unhappy for himſelf, more unhappy for the King and Kingdom.</p>
+            <p>
+               <hi>Errors in Government</hi> at that time, and more eſpecially during <hi>Laud</hi>'s Miniſtration, were <hi>too palpable</hi> for me now to <hi>palliate,</hi> much leſs to <hi>conceal.</hi>
+            </p>
+            <pb n="5" facs="tcp:49577:3"/>
+            <p> No Parliament called <hi>for</hi> 13 <hi>long and weary years</hi> (from 3. <hi>Car.</hi> 1. to 16. <hi>Car.</hi> 1. <hi>weary indeed)</hi> by Encroachments and <hi>Oppreſſions</hi> in the <hi>Stannary-Courts,</hi> recanted (too late) and acknowledged, confeſſed and redreſſed in the Statute, 17. <hi>Car.</hi> 1.15. <hi>Shipmony</hi> recanted and declared unlawful, 17. <hi>Car.</hi> 1.14. <hi>High-Commiſſion-Court,</hi> exerciſed to the <hi>great and inſuffer<g ref="char:EOLhyphen"/>able wrong, and oppreſſion of the Kings Subjects</hi> (the very words of the Statute) <hi>annull'd</hi> and made void for ever, by 17. <hi>Car.</hi> 1.11.</p>
+            <p>
+               <hi>The Star-Chamber Court,</hi> (the proceedings, cenſures and de<g ref="char:EOLhyphen"/>crees whereof were found (too late) to be <hi>an intollerable bur<g ref="char:EOLhyphen"/>then to the Subject, and the means to introduce Arbitrary Power and Government,</hi> in deſpight of <hi>Magna Charta,</hi> the <hi>Petition of Right,</hi> and other good Laws) pull'd down and <hi>abſolutely Revoked</hi> and made void by 17. <hi>Car.</hi> 1.10.</p>
+            <p>
+               <hi>Free Quarter,</hi> illegal <hi>Impiſonment,</hi> (of <hi>Members</hi> of Parlia<g ref="char:EOLhyphen"/>ment for daring to ſpeak their minds <hi>in the Houſe,</hi> by aſcer<g ref="char:EOLhyphen"/>taining the Antient Laws, and <hi>bewailing the Grievances of the Subject) Loanes, Coat</hi> and <hi>Conduct-mony,</hi> and other Enormi<g ref="char:EOLhyphen"/>ties, under which the People groan'd, and which I liſt not here to particulariſe, were all laid at Arch-biſhop <hi>Laud</hi>'s <hi>door,</hi> I confeſs, and charged not (ſo much) as the Vices of the <hi>man,</hi> but the Viciouſneſs of his <hi>Holy Profeſſion,</hi> in undertaking ſo grand a Poſt and Station, not ſo unſuitable to his Parts and Accompliſhments, <hi>as a man;</hi> but to his Sacred Orders, <hi>as a Divine:</hi> As if God did not bleſs <hi>Temporal Affairs</hi> in the hands of <hi>Spiritual Perſons.</hi>
+            </p>
+            <p>And ſo <hi>many warm</hi> Speeches were made to that purpoſe in the Parliament, in 1640, and 41. That at length they produced and brought forth that Statute, 17. <hi>Car.</hi> 1.27. Entituled, <hi>An Act for diſabling all Perſons in Holy Orders to exerciſe any temporal Juriſdiction or Authority.</hi>
+            </p>
+            <p>None pratled more of <hi>Magna Charta,</hi> than the Speech<g ref="char:EOLhyphen"/>makers in that Parliament; and none made a greater <hi>Noſe of
+<pb n="6" facs="tcp:49577:4"/>Wax</hi> of it: More eſpecially and particularly in <hi>that</hi> Statute that Diſables all perſons in Holy Orders from exerciſing Temporal Juriſdictions: Thus they <hi>raz'd the Foundations,</hi> took away the grand <hi>Groundſel</hi> of the Houſe of Lords, The <hi>Firſt</hi> of the three Eſtates of this Realm; no wonder then if <hi>all the Houſe</hi> of Lords tumbled down ſoon after; the Houſe of Commons alſo not continuing very long after; ſo dangerous it is to pull away the Groundſels, and main Pil<g ref="char:EOLhyphen"/>lars.</p>
+            <p>Did not the Prelates (for they did <hi>all in all</hi> in thoſe Times) not only get <hi>Magna Charta</hi> Enacted, but preſerved the ſame from the Violation and Encroachments that ſhould be made upon it (that is) with the weapons of thoſe times, by Damn<g ref="char:EOLhyphen"/>ing all to the Pit of Hell that durſt <hi>infringe Magna Charta;</hi> I mean, <hi>as far and deep into the Pit of Hell as Bell, Book and Candle</hi> could ſend ſuch Violaters of <hi>Magna Charta.</hi>
+            </p>
+            <p>The firſt Branch whereof grants and confirms that the Church of <hi>England</hi> ſhall be free, and ſhall have <hi>all her whole rights and liberties inviolable.</hi> In King <hi>Charles</hi> I. his Reign (before that fatal Statute, 17. <hi>Car.</hi> 1.27.8. ſo contrary to <hi>Magna Charta,</hi> was made) the ferment <hi>went high,</hi> no wonder then that the <hi>mobility</hi> did run a madding, when Oppreſſions will make the <hi>Nobility</hi> and <hi>Wiſe men mad;</hi> nor did they reco<g ref="char:EOLhyphen"/>ver their wits but by <hi>Phlebotomy</hi> in a furious inteſtine and Bloody-Civil-war: and when their Veins were well empti<g ref="char:EOLhyphen"/>ed and their Pockets too, the People came to themſelves, and became <hi>compos mentis,</hi> their own man again, acknow<g ref="char:EOLhyphen"/>ledging their miſtakes all along in fooliſhly charging the miſ<g ref="char:EOLhyphen"/>carriages in the Government, upon the Profeſſion of one of the Chief Miniſters of State; (Arch-biſhop <hi>Laud.</hi>)</p>
+            <p>For if they had not all been craz'd with a notion in the ſoft place of their Heads, was not the Argument as ſtrong and rational to <hi>diſable all Lay-men</hi> from Exerciſing any Tem<g ref="char:EOLhyphen"/>poral Juriſdictions, becauſe all the ſaid miſcarriages were
+<pb n="7" facs="tcp:49577:4"/>firſt begun and carried on by <hi>Lay-men,</hi> viz. <hi>Buckingham</hi> and <hi>Strafford;</hi> in ſo much that King <hi>Charles</hi> I. that lov'd them both well enough (or <hi>too well</hi>) and went along with them, ac<g ref="char:EOLhyphen"/>knowledged that he did not think <hi>Strafford</hi> fit to exerciſe the place of an <hi>High-Conſtable;</hi> Arch-biſhop <hi>Laud</hi> did but <hi>Lackey</hi> it after thoſe, and followed their ſteps, for the way was trac't before him; for long before <hi>Laud</hi>'s Miniſtration King <hi>Charles</hi> I. twice in Parliament uttered that diſtaſtful Sentence, that gave ſuch Umbrage and diſguſt to the Parliament, and to the whole Kingdom, and prov'd of moſt fatal and bloody Con<g ref="char:EOLhyphen"/>ſequence, in the enſuing Civil Wars: for no people in the World have been more jealous of their Liberties, and more apprehenſive or allarm'd at any threatning preſages of Ar<g ref="char:EOLhyphen"/>bitrary Government, than the <hi>Engliſh;</hi> ſuch was that un<g ref="char:EOLhyphen"/>feaſonable and diſtaſtful Sentence—In that King's Speech. —<hi>I owe the Account of my Actions to God only.</hi>—</p>
+            <p>And the Common-Text for the <hi>Manwarings</hi> and the <hi>Court-Sycophants</hi> of thoſe times was <hi>Pſal.</hi> 51.4. <hi>Againſt thee, thee only have I ſinned and done this Evil in thy ſight.</hi> Whence they concluded and inferred, that <hi>no King</hi> could ſin againſt any but God <hi>alone.</hi>
+            </p>
+            <p>Strange Logick, more ſtrange Divinity, to draw an uni<g ref="char:EOLhyphen"/>verſal concluſion from particular Premiſes, that, becauſe King <hi>David</hi> ſaid that in the matter of <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> the <hi>Hittite,</hi> he ſinned againſt God <hi>only,</hi> therefore neither he in any other matter or particular, nor any other King in any particular could ſin a<g ref="char:EOLhyphen"/>gainſt any but God <hi>only.</hi>
+            </p>
+            <p>Surely, <hi>David,</hi> in that particular, ſinned againſt more than God only; for he ſinned againſt his own Conſcience, and his Coronation-Oath, and the Duty of a King, which is to be a Shepheard, not a Wolf, and was ſet up for Edifica<g ref="char:EOLhyphen"/>tion, not deſtruction of the People of God; alſo he ſinned againſt <hi>
+                  <g ref="char:V">Ʋ</g>riab</hi>'s Life, and his Wives Chaſtity in tempting and debauching her; alſo he ſinned againſt the Generation
+<pb n="8" facs="tcp:49577:5"/>of God's Children, made Religion evil ſpoken of, and made the <hi>Enemies of the Lord to blaſpheme,</hi> as 2 <hi>Sam.</hi> 12.12. But Arch-biſhop <hi>Laud</hi> had more ingenuity than to make that Conſtruction of the word <hi>only;</hi> for <hi>only</hi> there is interpreted by the following words— <hi>in thy ſight;</hi> which are <hi>exegetical</hi> of the word—<hi>only;</hi> (that is to ſay) As <hi>Nathan</hi> ſaid unto him, 2 <hi>Sam.</hi> 12.14. <hi>thou didſt it</hi> (the Murther and the Adultery) <hi>ſecretly; David</hi> was cunning in his bloody ways and luſtful ways; he called not witneſſes of his Adultery, none knew but his Confidents and Pimps, ſworn to ſecrecy; and the Murther was more ſecret, for he kill'd by the ſword of his Enemies, the ſword of the Children of <hi>Ammon;</hi> ſo that <hi>a<g ref="char:EOLhyphen"/>gainſt thee, thee only have I ſinned, and done this evil in thy ſight;</hi> It is plain that <hi>David</hi> only meant, that he had done that evil <hi>only before God,</hi> only in <hi>his ſight,</hi> none elſe were pri<g ref="char:EOLhyphen"/>vy to it, or knew of it; at leaſt, he thought ſo, and ſo did <hi>Nathan,</hi> thou didſt it ſecretly, ſaith he, ſo cunningly didſt contrive it, that none but God only ſhould know of that ſin.</p>
+            <p>Beſides, <hi>only,</hi> may (as in <hi>Pſal.</hi> 62.4. and in many other places of Holy Scripture) be taken for <hi>eſpecially</hi> or <hi>Chiefly; againſt thee eſpecially,</hi> againſt thee chiefly have I ſinned.</p>
+            <p>Sure I am, none but <hi>Paraſites,</hi> can imagin that a wretch<g ref="char:EOLhyphen"/>edly-ſinful King is not a ſinner, cannot offend againſt any but God. If a King, as King <hi>David</hi> did, make his ſubject a Cuckold, does he therein ſin againſt, or offend againſt <hi>none but God?</hi> Muſt not the Cuckold be at all concern'd becauſe his Horns were of a King's making? What Divinity is this?</p>
+            <p>Flatterers and Sicophants are the worſt of Poyſoners; but King <hi>Charles</hi> I. was thus cajoll'd long before <hi>Laud</hi> came into vogue.</p>
+            <p>But, indeed, are King's accountable to God only? I had thought that no King can for his Heart exempt himſelf from
+<pb n="9" facs="tcp:49577:5"/>the <hi>Judg within him,</hi> his Conſcience; which if wounded and awake, it will keep him from ſleep, as it did poor King <hi>Da<g ref="char:EOLhyphen"/>vid;</hi> this Judg put him upon the Rack, and made him roar again, <hi>breaking his Bones,</hi> Pſal. 51.8. So true it is— <hi>A wound<g ref="char:EOLhyphen"/>ed Spirit who can bear?</hi> This Judg was ſuch a Terror to <hi>Cain,</hi> that it made him a Vagabond, and to run away with him<g ref="char:EOLhyphen"/>ſelf, he knew not whither, nor could over-run his Judg and Executioner, for he carried them along with him (as Mur<g ref="char:EOLhyphen"/>derers do) moſt terribly, <hi>in the very Breaſt;</hi> ſo that <hi>Judas,</hi> rather than endure it, Hang'd himſelf. Oh wretched Syco<g ref="char:EOLhyphen"/>phants! To encourage a King to ſin, becauſe he is Accoun<g ref="char:EOLhyphen"/>table to God only at the day of Death, and the day of Judg<g ref="char:EOLhyphen"/>ment.</p>
+            <p>As if he (the Rock of <hi>Iſrael</hi>) that told King <hi>David,</hi> 2 <hi>Sam.</hi> 23.3. That <hi>he that ruleth over men muſt be juſt, ruling in the fear of God;</hi> Should be Anſwered—<hi>muſt?</hi> Muſt be Juſt? Is there a neceſſity for it? <hi>muſt</hi> is <hi>not</hi> for Kings, they are not ac<g ref="char:EOLhyphen"/>countable to any but God, they can ſin againſt God, and a<g ref="char:EOLhyphen"/>gainſt God <hi>only;</hi> and he reckons not till the day of Death, or the day of Judgment.</p>
+            <p>But, I believe, King <hi>David</hi> (and ſome <hi>other</hi> Kings that I could think of) found a <hi>more early day of reckoning,</hi> than the day of Judgment; and tho they and their Flatterers might <hi>put far from them the evil day,</hi> yet they could not put it away; yet in <hi>foro humano,</hi> a King is not accountable.</p>
+            <p>But, waving the <hi>Impiety,</hi> where's the <hi>Policy?</hi> By ſuch ex<g ref="char:EOLhyphen"/>preſſions, to make the People Jealous and afraid of ap<g ref="char:EOLhyphen"/>proaching Tyranny and Arbitrary Government?</p>
+            <p>The Kings of <hi>England</hi> uſually have had their Speeches well examined in Council, before they have ſpoken them in open Parliament. I make no Apology for ſuch language, ſo offenſive to the People, only I ſay <hi>Laud</hi> is not to be blamed for the ſame; for the Venome was deſtill'd into the King's Ear, before he had the King's Ear; and if it was otherwiſe, what fence, reaſon or Juſtice is there, for
+<pb n="10" facs="tcp:49577:6"/>one Clergy-man's failings, to lay the blame upon all perſons in Holy Orders?</p>
+            <p>This would be as ridiculous and unjuſt, as if all the Lay<g ref="char:EOLhyphen"/>ety ſhould ſuffer for the ſins of the Duke of <hi>Buckingham</hi> and Earl of <hi>Strafford,</hi> of whoſe miſcarriages in Government, as an Evil Counſellor, King <hi>Charles</hi> I. was ſo ſenſible (tho al<g ref="char:EOLhyphen"/>ways too late) that he did publickly avow before <hi>Strafford</hi>'s Death, that he did not think him a Man fit for ſo much as the place of an <hi>High-Conſtable:</hi> Was it Arch-biſhop <hi>Laud</hi> too, that was guilty of being an Evil-Privy-Councellor, When K. <hi>Carles</hi> I. uttered the like alarming Expreſſions? Such as theſe, about impriſoning the Earl of <hi>Arundel,</hi> ſaying, in the Houſe of Lords— <hi>My Lords! I do not</hi> (by this) <hi>mean to ſhew the Power of a King by Diminiſhing your Priviledges,</hi> &amp;c. At which <hi>both Houſes</hi> were ſtrangely affrighted; for the words Implied, that he thought he had ſuch a <hi>Power,</hi> as King <hi>to di<g ref="char:EOLhyphen"/>miniſh</hi> their Priviledges, <hi>if he liſted;</hi> whereas they thought that they held their Priviledges <hi>per Legem Terrae,</hi> not <hi>ad Libi<g ref="char:EOLhyphen"/>tum Regis;</hi> by the Law of the Land, and not the Arbitrary liſt or will of any man living: Such Doctrines may go down in <hi>Turky</hi> and <hi>France,</hi> they will <hi>not yet</hi> paſs currant in <hi>England,</hi> ſuch was that other <hi>like</hi> ill-adviſed <hi>expreſſion</hi>—of <hi>that</hi> King, namely,— <hi>But as for Tunnage and Poundage it is a thing I can<g ref="char:EOLhyphen"/>not want;</hi> neceſſarily implying, that if they would <hi>not give it him by Law,</hi> he would take it by <hi>force</hi> (as he did afterwards, and was as good as his word in that) taking it <hi>without Law.</hi> Leſs I could not well ſay in anſwer to this Objection, that muſt be confeſt to be unanſwerable otherwiſe, than by ac<g ref="char:EOLhyphen"/>knowledging the miſcarriages in Government to be true, and too palpable, for they were felt ſufficiently; but that <hi>Lay<g ref="char:EOLhyphen"/>men,</hi> not Clergy-men had then the Adminiſtration of affairs, both in the Privy-Councel, and <hi>Cabinet;</hi> injuriouſly therefore were ſuch failings imputed to <hi>Laud,</hi> and more injuriouſly to make all men of his Profeſſion, nay, the <hi>very Profeſſion it
+<pb n="11" facs="tcp:49577:6"/>ſelf,</hi> to be guilty of <hi>his</hi> crimes? This is (as Logicians term it) <hi>non cauſa pro cauſa.</hi> To aſcribe the treachery of <hi>Judas</hi> to all the Diſciples. Yet, ſuch was the <hi>Logick</hi> of thoſe mad times in 1640, and 1641. and the ſame mad Infection <hi>ſtill ſpreads</hi> its ſelf, amongſt prejudiced, and <hi>unthinking</hi> men.</p>
+            <p>Of which ſort the number <hi>was much greater</hi> than now a days, or elſe ſure thoſe <hi>ſleighty</hi> Arguments and Objections (a<g ref="char:EOLhyphen"/>gainſt <hi>Clergy-men's exerciſing temporal Juriſdictions</hi>) could not have prevail'd ſo far as to be formed into an Act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But men (even yet) are apt enough to be enclin'd to any thing that promotes <hi>their own intereſt,</hi> or pleaſes <hi>their fancies,</hi> how ridiculous ſoever.</p>
+            <p>Nevertheleſs, ſoon after the Reſtauration and Return of King <hi>Charles</hi> II. in the firſt <hi>Free,</hi> Free-<hi>Parliament</hi> begun at <hi>Weſtminſter,</hi> May 8, 1661. The <hi>First</hi> Act they made was for ſafety of his Majeſties Perſon, and Government. And the <hi>Second</hi> Act, <hi>viz.</hi> 13. <hi>Car.</hi> 2.2. was for ſafety of the <hi>two Houſes</hi> of Parliament and the three Eſtates of this Realm (Lords Spiritual, Lords Temporal, and the Commons) by replacing the ancient Groundſel which had been ſo fatally, and with ſuch <hi>bloody Conſequences</hi> taken away by that <hi>raſh</hi> Act, made 17. <hi>Car.</hi> 1.27. whereby all perſons in Holy Orders were diſabled from exerciſing any Temporal Juriſ<g ref="char:EOLhyphen"/>diction or Authority; therefore the ſaid Act was thereby from thenceforth <hi>repealed,</hi> annulled and made <hi>void to all intents and purpoſes whatſoever</hi> (to give you the very words of the ſaid Act) <hi>for that the ſaid Act had made ſeveral alterations pre<g ref="char:EOLhyphen"/>judicial to the Conſtitution and antient Rights of Parliament, and contrary to the Laws of this Land,</hi> and is by <hi>experience</hi> (wo<g ref="char:EOLhyphen"/>ful experience, the only <hi>Miſtriſs of Fools</hi>) found <hi>otherwiſe in<g ref="char:EOLhyphen"/>convenient.</hi>
+            </p>
+            <p>In the next place, let us conſider the ſubtle Arguments, and knotty Reaſonings that went ſmoothly and currantly
+<pb n="12" facs="tcp:49577:7"/>down with thoſe whoſe appetites were prepared to reliſh and receive them, in thoſe eaſy times that were miſtaken in the Cauſes of Miſgovernment; charging the faileurs and miſ<g ref="char:EOLhyphen"/>carriage during <hi>Laud's</hi> Miniſtration, to the Vice of his Pro<g ref="char:EOLhyphen"/>feſſion (as a Spiritual Perſon, and in Holy Orders) therefore vicious and unhappy in him, which would not ſo have been in a Lay-man. And that God All-mighty <hi>bleſt</hi> this, and <hi>blaſted</hi> the other.</p>
+            <p>But ſuch dreams never happen to any but men unacquaint<g ref="char:EOLhyphen"/>ed with Hiſtory, and with the Temper of <hi>former</hi> times, and of our <hi>own.</hi>
+            </p>
+            <p>To inſtance only in the <hi>Contemporaries</hi> of Arch-biſhop <hi>Laud;</hi> was there ever an <hi>honeſter Privy-Concellor</hi> than Arch<g ref="char:EOLhyphen"/>biſhop <hi>Abbot?</hi> Or that gave the King wiſer or better Coun<g ref="char:EOLhyphen"/>ſel than he, if the King would have hearkned? Was there ever a wiſer Stateſ-man and Lord Chancellor than <hi>Williams</hi> Biſhop of <hi>Lincoln?</hi> Or that managed that Place with <hi>greater prudence or ſucceſs;</hi> he made his way, tho' he always row'd <hi>againſt</hi> the ſtream, <hi>wind and tide</hi> againſt him, <hi>Bucking<g ref="char:EOLhyphen"/>ham</hi> and <hi>Laud.</hi> Was there ever an honeſter or <hi>more wiſe</hi> and <hi>frugal</hi> Lord Treaſurer, than Biſhop <hi>Juxten,</hi> his Enemies (the Rump-Parliament) being Judges, and after they had <hi>with prying Eyes</hi> examin'd <hi>his Books</hi> of Accounts?</p>
+            <p>Therefore it is as ridiculous as unjuſt to make <hi>all</hi> Clergy<g ref="char:EOLhyphen"/>men ſuffer <hi>for one man's offence,</hi> and attribute the miſcarriages of the Man to the <hi>Profeſſion,</hi> that as <hi>Andrew Marvel</hi> ſays, if they keep to their Bibles, <hi>make the beſt Stateſ-men in the World:</hi> And ſurely they are as likely to keep to their Bibles, and have been as Wiſe and Honeſt Stateſmen as any other Men, of what <hi>Profeſſion ſoever.</hi>
+            </p>
+            <p>For, alas! <hi>Laud</hi> did not Lead but Follow thoſe bad me<g ref="char:EOLhyphen"/>thods and ſteps, of raiſing Mony <hi>without</hi> the Peoples <hi>con<g ref="char:EOLhyphen"/>ſont</hi> in Parliament; of <hi>calling no Parliament</hi> to redreſs Grievances, under which no People ever groan'd more; ſo
+<pb n="13" facs="tcp:49577:7"/>that thoſe Minions and chief <hi>Miniſters of State</hi> were afraid of Parliaments, afraid to be called to account, and more than one Parliament was <hi>diſfolv'd</hi> for calling <hi>Buckingham</hi> to Ac<g ref="char:EOLhyphen"/>count; inſomuch, that the ills which thoſe Miniſters had done, <hi>could not be ſafe, but by attempting greater.</hi>
+            </p>
+            <p>King <hi>James</hi> I. (from the 7th to the 18th year of his Reign (11. years) had <hi>not one</hi> Parliament; and <hi>then,</hi> all that was done in that Parliament, was but the <hi>old buſineſs,</hi>) the Mony-buſi<g ref="char:EOLhyphen"/>neſs) and an Act of <hi>Indemnity;</hi> of which, as the Favourites had <hi>moſt need,</hi> ſo they promoted the ſame.</p>
+            <p>King <hi>Charles</hi> I. never called but three Parliaments all his whole Reign, which laſted almoſt 24. years, and the <hi>laſt</hi> Par<g ref="char:EOLhyphen"/>liament he called, <hi>outlaſted</hi> him, at leaſt, the <hi>Rump</hi> of it.</p>
+            <p>And it is obſervable, that neither King <hi>Charles</hi> I. nor King <hi>James</hi> I. ever parted with a Parliament with <hi>ſmooth Foreheads,</hi> diſſolving them in a rage, and ſending them home with wrinkled Brows, on all ſides; which ſowred the Blood, turn'd it to Choler; ſo that (after ſuch long Intervals of Par<g ref="char:EOLhyphen"/>liament) when <hi>they met</hi> again, they <hi>Vented it</hi> in a Rage, and (like <hi>Haman</hi>) for the affront of one <hi>Mordecai,</hi> they would he revenged of <hi>the whole</hi> Tribe, and therefore made <hi>that Act,</hi> which as aforefaid, <hi>diſabled all perſons in Holy Orders from the exerciſe of any temporal Juriſdiction.</hi> To Effect which, let us liſten, in the next place, to their <hi>Wiſe</hi> Reaſonings.</p>
+            <p>
+               <hi>Obj.</hi> 2. The next great Argument <hi>againſt</hi> Clergy-men's ex<g ref="char:EOLhyphen"/>erciſing Temporal Authorities, was taken <hi>from Holy Scrip<g ref="char:EOLhyphen"/>tures,</hi> and from the <hi>Example and words of our bleſſed Saviour, Luke</hi> 12.14. When a man came to him, and deſired him to ſpeak to his Brother, that he ſhould divide the Inheri<g ref="char:EOLhyphen"/>tance with him.</p>
+            <p>To which the Bleſſed Jeſus replyed— <hi>Man! who made me a Judg, or a divider over you?</hi>
+            </p>
+            <p>Now (quoth they) <hi>Is the Diſciple above his Maſter,</hi> or the Servant above his Lord? If the Maſter <hi>diſclaimes</hi> the tem<g ref="char:EOLhyphen"/>poral
+<pb n="14" facs="tcp:49577:8"/>poral Office of a Judg, or Magiſtrate; how comes his Diſ<g ref="char:EOLhyphen"/>ciples to <hi>claim</hi> the ſame, and by what Authority? Has the Man more power than the Maſter?</p>
+            <p>
+               <hi>Anſ.</hi> I Anſwer, That they that <hi>ſwallow ſuch ſtuff</hi> as this, muſt do it <hi>without chewing.</hi>
+            </p>
+            <p>For ſuch a conſtruction and improvement of that Text, <hi>Diſrobes all Lay-magiſtrates,</hi> as well as <hi>Clergy</hi>-Magiſtrates, ex<g ref="char:EOLhyphen"/>cept the <hi>Lay-Magiſtrates</hi> renounce their Chriſtianity, and the Service of Chriſt.</p>
+            <p>For I was in good hopes that all the Judges, Parliament<g ref="char:EOLhyphen"/>men, Juſtices of Peace, and Magiſtrates in <hi>England are and were Diſciples of Chriſt,</hi> and <hi>his Servants,</hi> as well and <hi>as much</hi> as Clergy-men; St. <hi>Peter</hi> call's the Lay-men to whom he writes—<hi>The Servants of God.</hi> And St. <hi>Paul</hi> more parti<g ref="char:EOLhyphen"/>cularly ſtiles the Magiſtrate, The <hi>Miniſter,</hi> (or Servant) <hi>of God.</hi>
+            </p>
+            <p>It is no diſgrace for the <hi>King's Writ</hi> to run in the ſtile that <hi>Moſes his Precipe's and Commands did run</hi>—Joſh. 8.31. <hi>Moſes the Servant of the Lord commanded,</hi> &amp;c.</p>
+            <p>We muſt have none but Pagans and Heathens, Atheiſts and Debauchees for Kings and Magiſtrates, if we exclude all the Diſciples and Servants of Chriſt; for <hi>one and all;</hi> ex<g ref="char:EOLhyphen"/>clude <hi>one,</hi> exclude <hi>all; and for the ſame Reaſons.</hi>
+            </p>
+            <p>Beſides, the diſtinction of Lay-men and Clergy-men, are names of Diſtinction that <hi>God never made,</hi> but quite contrary; thoſe that we <hi>call Lay</hi>-People, are more eſpecially called <hi>Cler<g ref="char:EOLhyphen"/>gy,</hi> or God's Flock, or God's Lot, or God's Inheritance, 1 <hi>Pet.</hi> 5.2, 3. where St. <hi>Peter</hi> (whom <hi>we call</hi> a Clergy-man) Com<g ref="char:EOLhyphen"/>mands the Biſhops, Elders, or Prieſts (whom <hi>we alſo call Cler<g ref="char:EOLhyphen"/>gy-men</hi>) to feed the Flock of God, and not to Lord it over <hi>God's Clergy,</hi> or God's Inheritance, <hi>(viz.)</hi> over them which we contrarily call Lay-men; And the Statute <hi>Hen.</hi> 8.21, 13. calls—<hi>Lay fee.</hi> Pride and Popery firſt made this Di<g ref="char:EOLhyphen"/>ſtinction, making an <hi>Impropriation</hi> of the name Clergy, or
+<pb n="15" facs="tcp:49577:8"/>God's-lot <hi>to the Divines,</hi> who called themſelves alſo Spiritu<g ref="char:EOLhyphen"/>al Perſons, and Eccleſiaſtical Perſons, and Church-men; as if God had no <hi>Church-men</hi> but <hi>Caſſock-men,</hi> nor any Saints, but ſuch as are in Holy Orders?</p>
+            <p>And what I pray is entring into Holy Orders? Other than being Commiſſion'd or Authorized to do ſuch and ſuch Acts, by men of authority ſo to Ordain, thus the King Ordains Judges and Juſtices by Commiſſion; Judges Ordains Gen<g ref="char:EOLhyphen"/>tlemen in the Country to Repreſent themſelves in many caſes by taking Fines, Depoſitions, <hi>&amp;c.</hi> By Commiſſion too, or <hi>Dedimus Poteſtatem,</hi> The King Ordains, or orders the <hi>Dean</hi> and <hi>Chapter</hi> to Elect <hi>A. B.</hi> to be a Biſhop. The <hi>Conge de<g ref="char:EOLhyphen"/>ſlyer</hi> is a <hi>mandamus.</hi> The Patron Orders or Ordains, or ap<g ref="char:EOLhyphen"/>points a man to ſuch a Benefice; if the Biſhop do not ac<g ref="char:EOLhyphen"/>cordingly give him Inſtitution, a Writ of <hi>Quare Impedit</hi> lies againſt him, ſo that the Biſhop in ſuch caſes can neither will nor chuſe; but if the perſon Preſented be <hi>Literatus,</hi> and ac<g ref="char:EOLhyphen"/>cording to the late Acts of Parliament (in Holy Orders) which we call Ordination; but really and truly, the Preſen<g ref="char:EOLhyphen"/>tation is the Ordination or Order that Entitles him with the Biſhops Inſtitution to <hi>jus ad rem;</hi> and in courſe the Arch<g ref="char:EOLhyphen"/>deancon's Induction gives him Livery and Seizin, or <hi>jus in re</hi> and Poſſeſſion.</p>
+            <p>All this is called <hi>Holy Orders,</hi> and ſo <hi>Prayers</hi> and <hi>hearing the Word,</hi> are called <hi>Holy matters</hi> and <hi>Holy things,</hi> becauſe they more immediately relate to <hi>Communion with God;</hi> but I un<g ref="char:EOLhyphen"/>derſtand not how Prayers in a Clergy-man is more Holy than Prayers in a Lay-man; nor how Preaching is more Sa<g ref="char:EOLhyphen"/>cred than Hearing. It is all God's Service, and they that ex<g ref="char:EOLhyphen"/>erciſe the ſame, are his immediate Servants, one as much as another, if their Faith and Devotion be equal.</p>
+            <p>
+               <hi>Obj.</hi> But why did not Chriſt accept the Temporal Office and Honor of being a Judg?</p>
+            <pb n="16" facs="tcp:49577:9"/>
+            <p> I anſwer by another queſtion, why is not every man you meet a Judg, and an Award's man, to decide and determin all your Controverſies?</p>
+            <p>Your Anſwer muſt be the ſame with mine to the ſaid <hi>Quaere,</hi> namely, He never had a Commiſſion, a <hi>Dedimus Po<g ref="char:EOLhyphen"/>teſtatem,</hi> an Authority to make ſuch an Award, to divide or decide any ſuch Inheritance or controverſy; as neither had Jeſus Chriſt in the Days of his Humiliation, for that he <hi>came to ſuffer</hi> for the ſins of the World; he could have been born of a Queen, but he choſe to be Born of a <hi>Poor Woman,</hi> in a poorer Equipage than any, and as he was born poor, even ſo he <hi>liv'd,</hi> and ſo he <hi>dyed;</hi> and it was neceſſary (as it was Proyhecyed of him) that he ſhould be a <hi>man of Sorrows and acquainted with Grief, deſpiſed and rejected of men,</hi> oppreſſed and afflicted, he was brought as a Lamb to the Slaughter, for it pleaſed the Lord to <hi>bruiſe</hi> him, he hath put him to grief, making <hi>his Soul an Offering for Sin,</hi> &amp;c.</p>
+            <p>Now obſerve the Vanity of theſe <hi>Rump Orators,</hi> and Lo<g ref="char:EOLhyphen"/>gicians; would you Chriſtian Magiſtrates and Miniſters of Chriſt be above, or better than your Maſter? He was poor and had not an Houſe of his own to hide his head in; nei<g ref="char:EOLhyphen"/>ther would you, if you be his true Diſciples and Servants, for the Servant is not greater than his Lord; you ſhould be poor as your Maſter.</p>
+            <p>All this fine Rhetorick (if any were ſo ſilly to uſe it) did not prevail with St. <hi>John,</hi> to part with his Eſtate, his Houſe or his Home; our bleſſed Saviour on the Croſs took notice of it, and therefore recommended his Mother to his Care, and Proviſion; and from that very hour that beloved Diſ<g ref="char:EOLhyphen"/>ciple carryed <hi>her to his own home:</hi> It was well he had a Home, and to put it to ſo good an uſe, it was more than his Maſter had, who had not ſo much as the Birds have <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Neſt, an Home, ſome men will be Interpreters of Holy Writ, and conſider nocircumſtances, which alter the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <pb n="17" facs="tcp:49577:9"/>
+            <p> There <hi>was a time</hi> when Chriſt ſent his Diſciples out <hi>with<g ref="char:EOLhyphen"/>out purſe or ſcrip,</hi> and bare-foot; that is, in the time of his <hi>Humiliation:</hi> But when that was accompliſhed, or <hi>upon Fi<g ref="char:EOLhyphen"/>niſhing,</hi> he gives them <hi>new</hi> Orders, <hi>Luke</hi> 22.35, 36. <hi>But now,</hi> ſaith Chriſt, <hi>He that hath a purſe let him take it, and likewiſe his ſcrip; and he that hath no ſword, let him ſell his Garment and buy one.</hi>
+            </p>
+            <p>Whereby they had a plainer Commiſſion to <hi>wear a Sword</hi> than to wear a <hi>Caſſock:</hi> And to want <hi>this,</hi> rather than, <hi>that.</hi>
+            </p>
+            <p>Another brisk Oratour and Logician in that Parliament <hi>(againſt Clergy-men's exerciſing temporal Juriſdiction)</hi> argues thus.</p>
+            <p>
+               <hi>Obj.</hi> 3. From 2 Tim. 2.4. <hi>No man that warreth,
+<label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>3</label> entangleth himſelf with the Affairs of this Life, that he may pleaſe him who hath choſen him to be a Souldier.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> What's this to <hi>Clergy-men</hi> more than to <hi>all other</hi> Chriſtians? No Man, no good Chriſtian-man <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>implicatur, is entangled</hi> in the Affairs of this Life: It is not ſo well Tranſlated, as commonly, <hi>entangles himſelf;</hi> but <hi>is entangled;</hi> 'tis a <hi>paſſiue,</hi> not an <hi>active word,</hi> and ſpoken of them, <hi>Qui tricis &amp; laqueis quibusdam implicantur;</hi> that are <hi>ſnared or fetter'd</hi> with or <hi>in</hi> the things of this Life; catch't by the Foot, ſo that they cannot go.</p>
+            <p>It is a word uſed by St. <hi>Peter,</hi> 2 <hi>Pet.</hi> 2.20. concerning ſuch as are once Converted, and have thereby <hi>eſcaped the ſnares</hi> and pollutions of the World, and are <hi>again entangled,</hi> or ſnar'd. So that St. <hi>Paul</hi> to <hi>Timothy</hi> only adviſes, that no man, no good Chriſtian man that <hi>hath eſcaped</hi> the ſnares and pollutions of the World, ſhould <hi>again be entangled and</hi> enſnared therein; no, God forbid: It is juſt like that of our bleſſed Saviours Prayer, <hi>John</hi> 17.15. <hi>I pray not that thou ſhouldeſt take them out of the World, but that thou ſhouldeſt keep them from the Evil.</hi>
+            </p>
+            <pb n="18" facs="tcp:49577:10"/>
+            <p> And all this is but <hi>the Daty,</hi> and ſhould be the <hi>endeavour</hi> of every good Chriſtian, tho he live <hi>in the World,</hi> yet to keep himſelf <hi>unſpotted from the World.</hi>
+            </p>
+            <p>
+               <hi>Agur's</hi> Prayer, <hi>Prov.</hi> 30.8. is excellent to this purpoſe, <hi>give me neither Riches nor Poverty,</hi> feed me with Food conve<g ref="char:EOLhyphen"/>nient for me, leſt I be full and deny thee, and ſay, who is the Lord? Or, leſt I be poor and ſteal, and take the name of my God in Vain: Great Riches are a Temptation and a Share, apt to <hi>entangle</hi> them in <hi>Pride,</hi> and make Gold their <hi>God:</hi> Great Poverty is a Temptation and a <hi>ſnare too,</hi> apt to tempt men to <hi>ſteal,</hi> oppreſs, take <hi>bribes,</hi> &amp;c. Not, but that a <hi>Rich Man</hi> may be an <hi>Oppreſſour,</hi> a <hi>Cheat,</hi> a <hi>Thief,</hi> a taker of <hi>Bribes:</hi> Not, but that a poor man too may be <hi>poor and proud,</hi> and make <hi>Mammon</hi> his God: But the uſual Temptations that attend <hi>great Riches are Pride,</hi> and <hi>confidence</hi> in Riches: And the <hi>uſual</hi> Temptations that attend <hi>great Poverty,</hi> is Cheating, <hi>Stealing,</hi> and other unlawful Pollutions that are in the world.</p>
+            <p>Now what is become of our Argument? <hi>No man that Warreth,</hi> no Chriſtian Man that would pleaſe God <hi>who hath choſen him to be a Souldier, ſhould be entangled,</hi> and to his utmoſt he ſhould take care that he be not entangled in and with the Snares, and Pollutions of the World.</p>
+            <p>They that thus apply this Text to the <hi>Clergy alone</hi> (which belongs to all Chriſtians) would exempt themſelves from be<g ref="char:EOLhyphen"/>ing obliged to look to themſelves that they <hi>be not Polluted</hi> with the World, tho they live in it: As if <hi>none but Clergy<g ref="char:EOLhyphen"/>men</hi> were obliged to be <hi>good men,</hi> Spiritual men, and good Church-men, and <hi>Diſciples of Chriſt.</hi>
+            </p>
+            <p>St. <hi>Peter</hi> was a Spiritual Perſon, and an Apoſtle and Fiſh<g ref="char:EOLhyphen"/>er of men, but ſtill kept to the <hi>old Trade of Fiſhing,</hi> to main<g ref="char:EOLhyphen"/>tain his <hi>Body.</hi>
+            </p>
+            <p>So St. <hi>Paul,</hi> as he was born a <hi>Freeman</hi> of <hi>Rome,</hi> he ſtands up for his <hi>Birth-right,</hi> when Invaded; and calls to the <hi>Ro<g ref="char:EOLhyphen"/>man Army,</hi> to help him againſt 40. Cut-throats that had ſworn that they would be the Death of him.</p>
+            <pb n="19" facs="tcp:49577:10"/>
+            <p> Therefore <hi>taking care</hi> of a mans <hi>Life and Lively-hood</hi> (a du<g ref="char:EOLhyphen"/>ty indiſpenſable except a man be <hi>felo de ſe</hi>) is ſo far from be<g ref="char:EOLhyphen"/>ing a Snare or Entanglement; that it is expreſly Command<g ref="char:EOLhyphen"/>ed by the Laws Divine as well as Human: The Laws of God, the Law of Nature, and Law of the Land.</p>
+            <p>If any thing be an <hi>Entanglement,</hi> or a ſnare to hinder a man in his Heavenly Race, one would think <hi>a Wife</hi> ſhould as likely be ſuch a <hi>Clog,</hi> as a <hi>Place of Honour or Profit;</hi> but that is ſo far from it, that it is expreſly made a <hi>qualificati<g ref="char:EOLhyphen"/>on of a Biſhop,</hi> that he be the <hi>Husband of one Wife,</hi> as St. <hi>Peter</hi> was, and as St. <hi>Paul</hi> ſaid he had Power <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>Licenſe to Marry</hi> when he liſted.</p>
+            <p>
+               <hi>Obj.</hi> 4.
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>4</label> Another <hi>Topick</hi> (whence theſe Orators did raiſe the <hi>Arguments</hi> againſt Clergy-men's intermedling with Temporal Offices and Honours) is taken from <hi>Acts</hi> 6.2. <hi>It is not reaſon,</hi> ſay the twelve Apoſtles, <hi>That we ſhould leave the word of God and ſerve Tables.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This has <hi>leſs of Sence</hi> to your purpoſe,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> than the for<g ref="char:EOLhyphen"/>mer Objections.</p>
+            <p>The <hi>Greek</hi>-Converts or Chriſtians murmured, becauſe there was not that care taken for their Poor, as was for the <hi>Jewiſh-Chriſtians;</hi> wherefore the Apoſtles cauſed ſeven <hi>Church-wardens</hi> or Deacons, or Overſeers for the Poor, to be choſen for that Work: Every Member of the Church can<g ref="char:EOLhyphen"/>not be the Head, nor Eye, ſome have gifts inferior, as the Hands and Feet, all are uſeful for the Body; this hinders not but the <hi>chief Heads and Eyes</hi> of the Church may give di<g ref="char:EOLhyphen"/>rections, and <hi>have an Eye to the Poor,</hi> and to ſee that the <hi>Feet</hi> and <hi>Hands</hi> do their <hi>Office.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> 5.
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>5</label> A fifth Objection was taken from the greatneſs of the Work of the Miniſtry, implied in that queſtion, 2 <hi>Cor.</hi> 2.16. <hi>who is ſufficient for thoſe things?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+            </p>
+            <p>
+               <hi>Anſw. Who</hi> is ſufficient? I anſwer, <hi>None are</hi> ſufficient; What then? Muſt we deſpair, lye down and Die? No, no,
+<pb n="20" facs="tcp:49577:11"/>we muſt do <hi>as we can,</hi> though we cannot do <hi>all we ſhould?</hi>
+            </p>
+            <p>The Duty of a Miniſter of Chriſt is no where in ſewer words more fully recommended and deſcribed than in 1 <hi>Pet.</hi> 5.1, 2, 3, 4. <hi>Feed the Flock of God</hi> (called in the 3d. v. as I ſaid before) <hi>the Clergy.</hi>
+            </p>
+            <p>Our <hi>Engliſh</hi> word, <hi>Feed,</hi> does but ſpeak by <hi>halves,</hi> the meaning of the <hi>Greek</hi> word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Rule and Feed the Flock: So St. <hi>Paul</hi> commands the <hi>Hebrews</hi> to pay Obedience to their Rulers, Paſtors, Teachers, that watch for their Souls, <hi>Heb.</hi> 13.17.</p>
+            <p>Not but that a <hi>good Magiſtrate,</hi> a good Judg may be a <hi>good Preacher</hi> (and many a good <hi>Sermon</hi> have I heard from the Bench (in ſome <hi>Judg his Charge</hi> there) as well as from the <hi>Pulpit.</hi>)</p>
+            <p>The Elders and <hi>Paſtors</hi> are poſitively Commiſſionated and Commanded in 1 <hi>Cor.</hi> 6.1, 2, 3, 4, 5, 6. to be <hi>Judges</hi> in all matters of Law or Controverſy that can happen betwixt one Chriſtian and another: And ſo at this day all Chriſten<g ref="char:EOLhyphen"/>dom over the <hi>Teachers</hi> are alſo <hi>Lawyers</hi> and Chancellours, and <hi>Maſters of the Rolls,</hi> &amp;c. and the Lawyers may <hi>Preach too,</hi> if they be <hi>Gifted</hi> and Ordain'd thereto.</p>
+            <p>
+               <hi>Obj.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>6</label> 6. Another flouriſh of theſe mens Rhetorick, is taken from the <hi>Writ, Reg.</hi> 187.6. which among other things hath theſe words, <hi>Non eſt conſonum quod ille qui Salubri Statui ani<g ref="char:EOLhyphen"/>marum &amp; piis operibus continue deſervit, ad inſiſtendum in ſecula<g ref="char:EOLhyphen"/>ribus negotiis compellatur.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Any Clergy-man may bring <hi>this Writ of Priviledge,</hi> if he be choſen a Church-warden, <hi>Conſtable,</hi> Scavinger, or any other place, which he <hi>does not like,</hi> he ſhall be excuſed by this Writ of Priviledge; if he pleaſe: <hi>Non Compellatur;</hi> he ſhall not <hi>againſt</hi> his good <hi>liking</hi> ſerve. So ſhall now an A<g ref="char:EOLhyphen"/>pothecary be excuſed and diſcharged from ſuch troubleſome Offices; but, he is at his choice, he may ſerve if he pleaſe; the Law does not incapacitate him, but is made in his fa<g ref="char:EOLhyphen"/>vour;
+<pb n="21" facs="tcp:49577:11"/>
+               <hi>Is not the Life more than Meat, and the Body than Ray<g ref="char:EOLhyphen"/>ment?</hi> Therefore the Law only takes care that they who are more immediately concerned in taking <hi>care for the Soul, the Life, or the Body</hi> of Man, ſhall be at leiſure to attend the <hi>great</hi> work, and ſhall <hi>not be forc'd</hi> to attend the leſs, to the hindrance of what is more neceſſary.</p>
+            <p>But what's this to the queſtion? For there are many Authorities and Juriſdictions Temporal, as that of a <hi>Juſtice of Peace,</hi> Privy-Councellour, <hi>&amp;c.</hi> wherein <hi>a Clergy-man can better Rule and Feed</hi> the Flock, than thoſe, who though never ſo able and accompliſh't for the place, cannot do the good they would to their Flock, for want of <hi>Temporal Power,</hi> Juriſdiction and Authority.</p>
+            <p>
+               <hi>Obj.</hi> 7. Oh! But this hinders his Preaching?
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>7</label>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. In anſwer there-unto, I firſt ſay,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>1</label> I do not believe it: But,</p>
+            <p n="2">2. Is there now a days <hi>ſuch need of Preaching</hi> of Piety, as there is of the <hi>Practice of Piety?</hi> There are few ſo ſilly, but <hi>they know their Duty,</hi> and thoſe that do not, may have Preaching enough, ſtore of Preaching, in the Pulpit, in the Preſs, Sermons, Sermons!</p>
+            <p>The truth on't is, Sermons are of great uſe to <hi>Feed</hi> the Flock, but not of more uſe than Diſcipline to <hi>Rule</hi> the Flock, which is equally a Duty: A Juſtice of Peace ſhall make ten times fewer Swearers and Curſers and Damners in a Pariſh than twenty Preachers; But, of late times, <hi>Preach<g ref="char:EOLhyphen"/>ing</hi> has <hi>juſtled</hi> all other Duties almoſt out of the Church, as if Prayers and Sacraments (by which men have the moſt <hi>immediate Communion</hi> with God) were but the <hi>Parentheſis</hi> of our Religion; and our ſence of Religion ſufficiently pre<g ref="char:EOLhyphen"/>ſerved, tho they be omitted and <hi>left out.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> 8. Again, it was objected,
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>8</label> that our bleſſed Savi<g ref="char:EOLhyphen"/>our <hi>gives a Prohibition</hi> to his Apoſtles, <hi>Luke</hi> 22.25. leſt his Diſciples <hi>exerciſe Lordſhip,</hi> and aim at Dominion, as do the
+<pb n="22" facs="tcp:49577:12"/>Princes of the Gentiles; and the Apoſtle <hi>Peter</hi> Commands the Elders <hi>not to Lord it over God's-Clergy;</hi> and <hi>Diotrephes</hi> is blamed for ſeeking preheminence.</p>
+            <p>
+               <hi>Anſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This is the Argument of the <hi>Levellers;</hi> and may as well be uſed <hi>to Level</hi> all Chriſtian men, and make <hi>an equa<g ref="char:EOLhyphen"/>lity</hi> of <hi>all Honours</hi> and Eſtates in the <hi>State</hi> as well as the <hi>Church:</hi> Drive it Home, as <hi>they would,</hi> and it Levels <hi>all Chriſtian Princes,</hi> Judges and <hi>Magiſtrates</hi> in the <hi>State,</hi> as well as the <hi>Church:</hi> For all Chriſtians are, or ſhould be <hi>Diſciples and Servants</hi> of Chriſt; whereas our Bleſſed Saviour in the foreſaid Prohibition, <hi>Levels not all Orders of men,</hi> but only <hi>Pride and Ambition;</hi> he would abate their Pride, reſtrain their Malice, and mortify their Avarice and Ambition.</p>
+            <p>A great Prince, a great Stateſ-man, a great Prelate ſhould be <hi>Humble,</hi> loving and kind to his fellow Creatures; their greateſt Honour is Humility, and the greateſt Humility of Inferiours conſiſts in Honouring all men, eſpecially the King.</p>
+            <p>Nay, Servants (who are under the yoak) would <hi>cauſe the Goſpel to be Blaſphemed, if they do not count their Masters wor<g ref="char:EOLhyphen"/>thy of all Honours,</hi> 1 Tim. 6.1. The Holy Scriptures then are the <hi>Magna Charta</hi> to conſerve Orders and Reſpects a<g ref="char:EOLhyphen"/>mongſt Chriſtians, not to Level and <hi>Confound</hi> all degrees and <hi>Qualities</hi> to an <hi>Equality.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>9</label> 9. Laſtly, It is Objected that <hi>Spiritual Perſons</hi> are <hi>not fitted</hi> and qualified <hi>by their Education</hi> for <hi>Temporal Offices,</hi> and Honours.</p>
+            <p>
+               <hi>Anſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To which I anſwer, then let <hi>no ſuch unqualified</hi> Perſons be called to ſuch Places, Offices, and Truſts: But none in <hi>England</hi> (be it ſpoken without exception or offence) have had more liberal and ingenuous Education than ſome of the Clergy, improved not only by <hi>Study,</hi> but <hi>Travel;</hi> and are Learned in the Knowledg of <hi>Men,</hi> as well as <hi>Books,</hi> and in the Laws of God and the King: Who are more likely to be improved in all manner of Learning, than ſuch as have
+<pb n="23" facs="tcp:49577:12"/>been Students all the days of their Lives? Who likely to be more accompliſh't, as to Converſation and Buſineſs, than ſuch as have always kept the choiceſt Company?</p>
+            <p>Nay, ſome of them are of as good and noble Families as any other Gentlemen, and is a man leſs a Man, leſs a Gentle<g ref="char:EOLhyphen"/>man, leſs a Knight, or Nobleman, by being a more imme<g ref="char:EOLhyphen"/>diate Servant of God?</p>
+            <p>By being a Spiritual Perſon does he undreſs himſelf and lay aſide his Body, wherefore then muſt he needs diveſt him<g ref="char:EOLhyphen"/>ſelf of all care for the Body?</p>
+            <p>St. <hi>Peter</hi> never exerted more fiery Zeal than when <hi>Anani<g ref="char:EOLhyphen"/>as</hi> and <hi>Saphira</hi> turn'd Church Robbers, by purloyning that Temporal Eſtate and Riches, which was indeed <hi>once their own;</hi> and Sacrilegiouſly picking the Churches Pocket of what was <hi>Devoted,</hi> and might have otherwiſe <hi>lawfully</hi> been kept in <hi>their own</hi> Pockets.</p>
+            <p>Is a <hi>good man</hi> the moſt <hi>unſit</hi> to be a <hi>great man?</hi> I had thought that he had been <hi>more fit</hi> to ſerve his Country faith<g ref="char:EOLhyphen"/>fully, the more Faithfully he had ſerv'd his God.</p>
+            <p>
+               <hi>Moſes</hi> his frequent Communion with God made him not only more able, but conſequently more capable to govern the People? And <hi>Samuel</hi> had no pretence to the Throne, till he was the more qualified to be a <hi>Judg</hi> over men, after ſome Diſcourſe betwixt God and him.</p>
+            <p>Nor was <hi>David</hi> the leſs (but the <hi>better</hi>) <hi>King</hi> by being the <hi>Prophet David;</hi> nor his Son <hi>Solomon</hi> leſs, but <hi>more wiſe</hi> by being <hi>Eccleſiaſtes</hi> or the Preacher.</p>
+            <p>Was <hi>Iſaiah</hi> leſs a Prince, and leſs of the Blood-Royal by being a <hi>Prophet</hi> of God?</p>
+            <p>Nay, all Nations that ever I ſaw, or heard of, pay the <hi>greateſt reſpects</hi> to the Prieſthood?</p>
+            <p>What greater King in all <hi>Africa</hi> at this day than <hi>Proſter John</hi> (that is to ſay) <hi>Presbyter John</hi> or <hi>Prieſt-John?</hi> The <hi>Aegyptians,</hi> and ſo the Ancient <hi>Hebrews,</hi> by one and the ſame
+<pb n="24" facs="tcp:49577:13"/>word ſignified <hi>Prieſt</hi> and <hi>Prince, Gen.</hi> 41.45. <hi>Potipherah; Prieſt of Ou</hi> (in the Margent) <hi>Prince of Ou;</hi> I ſay, <hi>all</hi> Na<g ref="char:EOLhyphen"/>tions (except our <hi>Britain, ſince the late confuſions</hi>) have thought no Station <hi>too good or too great</hi> for their Prieſts; both Civil and Barbarous Nations gave thus much to Religion; and what Nation is there in Chriſtendom, <hi>Turky,</hi> or Heatheniſm, wherein Men in Holy Orders are not a <hi>Conſtitutive and Eſſen<g ref="char:EOLhyphen"/>tial Part of</hi> the Government?</p>
+            <p>
+               <hi>Popiſh Priests</hi> (whom the ignorant Papiſts believe to be <hi>able to make a God</hi>) muſt needs be not only Reſpected but <hi>Adored.</hi> But <hi>Proteſtant Ministers</hi> in Holy Orders, can never, without as great a Miracle, be kept from <hi>Contempt,</hi> and giv<g ref="char:EOLhyphen"/>en to <hi>Hoſpitality,</hi> if they be <hi>kept poor</hi> by the many Impropri<g ref="char:EOLhyphen"/>ations now appropriated to the Crown and great Men (which <hi>once</hi> belong'd to the Clergy) and now they ſhall be <hi>stript too</hi> of all Temporal Offices and Honours (their <hi>just due</hi> by the Laws of Nature, of God, and of the Realm) as thoſe enjoy'd by them you call <hi>Lay-men.</hi> Biſhops have their Baronies <hi>jure Humano;</hi> who denies it? No Barons have other Right; the Law of the Land is their Birth-right, of which when by the <hi>Heats</hi> and rage of the late <hi>Dog-days time,</hi> they were <hi>madly</hi> depriv'd, what was the Conſequence, but the Ruin and Confuſion of <hi>all men's</hi> Birthrights?</p>
+            <p>It muſt be confeſt, that Envy, pure <hi>Envy</hi> made Sir <hi>Francis Bacon,</hi> Lord <hi>Verulam</hi> (when Lord <hi>Chancellour</hi> of <hi>England</hi> (one of the <hi>First and Worst</hi> Lord Chancellours, of a <hi>Lay-man,</hi> that ever had the Cuſtody of the <hi>Great Seal of England</hi>) by ſhameful <hi>Briberies,</hi> for which he <hi>lost it</hi>) ſay, (when it was told him that a poor Clergy-man waited to ſpeak with him below ſtairs;) <hi>Let him come up</hi> (quoth he) <hi>for I love to ſee a poor Clergy-man.</hi>
+            </p>
+            <p>There are, no doubt, very many that have had the ſame love for the Clergy, they love to ſee them Poor; they love to ſee a poor Clergy-man.</p>
+            <pb n="25" facs="tcp:49577:13"/>
+            <p> The Lord Chancellors Antient Title is <hi>Clericus Primae ſe<g ref="char:EOLhyphen"/>dis,</hi> Clerk of the <hi>firſt Form;</hi> Clerk, <hi>not Clark</hi> (a name now commonly given to every Scribler, and <hi>Lawyers Clark</hi>) but <hi>Clerk,</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Clergy-man, or the Lord's lot: I know, as before, that Pride and Self-conceit <hi>monopoliz'd</hi> this name (unjuſtly) <hi>to men in Orders,</hi> but it has obtain'd by cuſtom to ſignify <hi>Spiritual perſons;</hi> be it ſo, not the Law of God, nor the Language of Holy Scripture, but only Ordination, Pre<g ref="char:EOLhyphen"/>ſentation, or the Kings's. Commiſſion, <hi>makes the Distinction</hi> at this Day.</p>
+            <p>The famous Dr. <hi>Donne</hi> was a favourite <hi>Lay-Courtier</hi> when King <hi>James</hi> gave him his Hand to Kiſs, in aſſurance that he ſhould be <hi>Dean</hi> of <hi>Pauls;</hi> he afterwards was Ordain'd Deacon and Prieſt; and well became his Spiritual ſunction</p>
+            <p>I know no Law that hinders grave and ſober Lawyers to be Ordain'd Elders of the Church; nor why Elders of the Church may not (if qualified) be Elders in the State.</p>
+            <p>Sacred Places, ſacred Perſons, ſacred Churches, and Holy Lands, were only ſo called becauſe they were Conſecrated or made over, and Dedicated to God for his more immediate ſervice.</p>
+            <p>But, in theſe, as in all other giſts, bargains and Sales, there goes <hi>two words to the Bargain,</hi> or gift, <hi>viz.</hi> The conſent of the Bargainer and the Bargainee; the Donorand the Donee.</p>
+            <p>Now, when, and where, and how did All-mighty God ever diſcover that he <hi>accepted</hi> theſe gifts? Eſpecially in thoſe times of Popery, when moſt of thoſe <hi>Deo dands</hi> were by ſuperſtitutious men given or conſecrated to God?</p>
+            <p>For 1ſt. The Sacred Things and Holy Lands ſo Dedicat<g ref="char:EOLhyphen"/>ed, could not properly be called <hi>Gifts to God,</hi> becauſe they were uſually Extortious, forced through Superſtition, and extorted from Devout Sick Men and Dying Men, in Expi<g ref="char:EOLhyphen"/>ation for their former wicked and lewd Lives; Thus, <hi>by Commutation</hi> to eſcape the pains of an imaginary Purgato<g ref="char:EOLhyphen"/>ry,
+<pb n="26" facs="tcp:49577:14"/>Redeeming the Penalty of their Debaucheries, with their Purſes and Lands.</p>
+            <p>
+               <hi>Theſe,</hi> the crafty Prieſts from that time forward, called <hi>Holy Lands,</hi> Church-Lands, or the Liberties and Franchiſes of Holy Church; But, Proteſtants and all Rational Men (whoſe Judgments <hi>warp not</hi> through ſilly and imbibed Su<g ref="char:EOLhyphen"/>perſtitions) call theſe <hi>Commutations</hi> of Penance. <hi>Holy Cheats.</hi>
+            </p>
+            <p>And (it is probable) God All-mighty <hi>calls them ſo,</hi> and ſaith, <hi>who requireth theſe things at your hands?</hi> To bring the Price of a <hi>Whore, or a Dog into the Houſe of the Lord,</hi> by ſcaring and frighting poor ſilly men out of their Lands, their Monies, and their little Wits, with that old <hi>gainful Bugbear</hi> and uſe<g ref="char:EOLhyphen"/>ful ſcare-crow, <hi>Purgatory.</hi>
+            </p>
+            <p>An High-way-man is Hang'd for ſaying, with Piſtol in hand—<hi>Deliver your Purſe;</hi> but theſe <hi>Holy Pick-pockets</hi> are rewarded and applauded for ſaying, <hi>Purgatory, Purgatory,</hi> Deliver your <hi>Purſe.</hi>
+            </p>
+            <p>Then, with an impudent and whores fore-head, making the Holy God an <hi>Acceſſary,</hi> a party, and <hi>conſenting to</hi> thoſe Holy Cheats.</p>
+            <p>And if the <hi>Popes</hi> themſelves, their Cardinals, and Prieſts did believe theſe <hi>Frauds</hi> to be <hi>really Sacred,</hi> God's Right, and <hi>God's Lot,</hi> they would never have conſented to the Sacriledg by <hi>alienating them,</hi> and converting them <hi>to Saecular uſes,</hi> and a <hi>Lay-fee,</hi> as formerly they had been.</p>
+            <p>But Cardinal <hi>Woolſey</hi> and the Pope underſtood one ano<g ref="char:EOLhyphen"/>ther, when <hi>Woolſey</hi> (to ſatisfy his Ambition) prevail'd with the Pope, for a good round Bribe (for the Pope's Wheels ſeldom move well without greazing) and got a Licence to diſſolve many little Monaſteries, Nunneries and Friaries, and to convert them into monies, to purchaſe and <hi>Build</hi> himſelf <hi>a Name,</hi> by erecting therewith thoſe two famous Fabricks and Foundations, at <hi>Ipſwich</hi> and <hi>Oxford;</hi> the <hi>former,</hi> his <hi>Birth<g ref="char:EOLhyphen"/>place,</hi> the <hi>latter,</hi> the place of his <hi>Education.</hi>
+            </p>
+            <pb n="27" facs="tcp:49577:14"/>
+            <p> With deſign to Eternize his Fame and Name <hi>(a moſt need<g ref="char:EOLhyphen"/>leſs project!)</hi> for the known Whoredoms and Debaucheries of that <hi>Butcher's Son of Ipſwich</hi> are ſufficient <hi>Chronicles</hi> to perpetuate the filthy memory of ſuch an <hi>Eroſtratus.</hi>
+            </p>
+            <p>However, this <hi>Indulgence</hi> of the Pope (to <hi>alienate Church Lands</hi>) opened the Eyes of King <hi>Hen.</hi> 8. and his <hi>Parliament'</hi> and let them <hi>ſee</hi> that the Pope and Cardinals did not believe that ſuch ſacred Church-lands and Tythes were ſo perpetually Conſecrated and <hi>given to God,</hi> but that they might, to grati<g ref="char:EOLhyphen"/>fy <hi>their own</hi> Avarice and <hi>Woolſey</hi>'s <hi>Ambition,</hi> without any ſcruple of Conſcience, be converted to <hi>worldly uſes again,</hi> and become (as they were in the beginning) a <hi>Lay-fee.</hi>
+            </p>
+            <p>For the King and Parliament perceiv'd (and yet they were Papiſts, purblind with Superſtitions) that the Laity had been moſt abominably gull'd of their Lands, at that extrava<g ref="char:EOLhyphen"/>gant rate, that the Church-Lands were <hi>more than</hi> a third part of the Kingdom; which cauſed ſo many Statutes of <hi>Mortmain,</hi> as in <hi>Magna Charta,</hi> cap. 36. and many <hi>more</hi> ſince <hi>that</hi> time.</p>
+            <p>So that, of all <hi>Affections,</hi> with which the Soul of Man is poſſeſt, <hi>Superſtition</hi> ſeems to be the <hi>moſt</hi> powerful and <hi>Violent; it</hi> opens the griping hand of the moſt Covetous Miſer; <hi>it</hi> tears out all Natural Affection from the Bowels of the moſt tender Parent; witneſs <hi>Phillip of Spain</hi> that Sacrific'd his deareſt Son to the Bloody Inquiſition, as of old ſuch Bigots Sacrific'd their Children to <hi>Moloch; it</hi> Sanctifies and Hal<g ref="char:EOLhyphen"/>lowes all Murder and Villany; <hi>it</hi> humbles the moſt Ambiti<g ref="char:EOLhyphen"/>ous Potentate; witneſs <hi>Hen.</hi> II. of <hi>England;</hi> for perſonage, none more proper, ſtout and aimable, for Armies and Victo<g ref="char:EOLhyphen"/>ries ſo powerful and ſucceſsful, yet he gave <hi>his back to the ſmiters,</hi> and was whipt by the ſhaven Crowns (the <hi>Monks of Canterbury</hi>) 'till the Blood run down his Royal Back, in ſu<g ref="char:EOLhyphen"/>perſtitious Expiation of the Death of a proud Prelatical Re<g ref="char:EOLhyphen"/>bel, <hi>Becket,</hi> whoſe ſhrine was an hundred times more rich,
+<pb n="28" facs="tcp:49577:15"/>and more Devotion paid to his Altar, than to that of the Bleſſed <hi>Jeſus,</hi> ſuch is the force of <hi>mad</hi> Bigotry and <hi>Super<g ref="char:EOLhyphen"/>ſtition.</hi>
+            </p>
+            <p>But <hi>that miſt</hi> broke up in a great meaſure when the <hi>light broke out</hi> in the Reign of <hi>Hen.</hi> VIII. the contemporary of <hi>Martin Luther,</hi> and <hi>John Calvin;</hi> in ſo much that the word <hi>Sacriledg, Sacriledg</hi> (with which the <hi>Wily Prieſts</hi> had done Wonders to Enrich themſelves, and Beggar the Kingdom) had loſt the greateſt part of its <hi>Bugbear-force</hi> and Terror.</p>
+            <p>Which was <hi>happy for</hi> this Kingdom; for if the crafty Prieſts had proſper'd a little longer in their Holy Frauds, all <hi>England</hi> had long e're this been St. <hi>Peter</hi>'s <hi>Patrimony;</hi> the Church of <hi>England</hi> had <hi>not</hi> been <hi>in</hi> the Kingdom; but the Kingdom <hi>in the Church,</hi> the <hi>Clergy</hi> (that <hi>at firſt</hi> came out of the Laity, had long e're this devour'd (as the Papiſts ſay they do) their Maker and Creatour.</p>
+            <p>But it was Prieſtly and Antichriſtian <hi>Pride alone</hi> that made the Clergy ſuch <hi>Cormorants,</hi> and then to <hi>diſtinguiſh them<g ref="char:EOLhyphen"/>ſelves</hi> from the Laity, and be a diſtinct body of themſelves, ſetting themſelves <hi>above all that is called God,</hi> the Lay-magi<g ref="char:EOLhyphen"/>ſtrate; But ſuch diſtinction of <hi>Lay</hi> and <hi>Clergy,</hi> is a ſtranger to the Language of Holy Scripture, and to the ſentiments of right Reaſoning.</p>
+            <p>Was not St. <hi>Peter</hi> a Clergy-man? And yet he Exhorts the Paſtors of the Church <hi>to feed</hi> the <hi>Clergy,</hi> or <hi>God's-lot</hi> and Flock, <hi>viz. The Laity,</hi> as we improperly term them, as was ſaid before, for <hi>Clergy</hi> is their <hi>Chriſtian-Name.</hi>
+            </p>
+            <p>Search the Scripture, and you ſhall always find that by <hi>Church of God,</hi> is meant the <hi>Laity</hi> with their Paſtor's <hi>at the Head of them;</hi> quite contrary, our Antient Statutes (Penned by Popiſh-Prieſts) <hi>by Holy Church, and all her Liberties</hi> and Franchiſes, mean <hi>only the Clergy, forſooth,</hi> excluding the Laity; but I ſay, Laity and Clergy, Lay-fee, and Church lands, are diſtinguiſhing Terms <hi>that God never made,</hi> and is the ſole Invention of Antichriſtian Pride.</p>
+            <pb n="29" facs="tcp:49577:15"/>
+            <p> And ſo long as theſe two words—<hi>Church</hi> and <hi>State</hi> are kept in vogue, as if they were <hi>two Bodies,</hi> two diſtinct Cor<g ref="char:EOLhyphen"/>porations, they will always <hi>be claſhing</hi> and quarrelling in their Intereſts, and drive on ſeveral Deſigns and Projects; of which we may ſay as of two Ships that ſailing contrary ways meet in the Ocean, <hi>Si collidimur, frangimur,</hi> if we claſh one againſt another, we ſhall ſplit one another; but they are <hi>not two,</hi> but one, and <hi>Lay-Clergy</hi> is <hi>but one word,</hi> and what God <hi>has joyn'd together, let not wicked man put aſunder.</hi>
+            </p>
+            <p>This Unity of Perſons (Clergy and Lay) takes away all diſtinctions of Lands, as <hi>Church-lands,</hi> and <hi>Lay-fees,</hi> which King <hi>H.</hi> 8. and his Parliament begun practically to underſtand, when they took the <hi>Church-lands</hi> (which the Popelings Superſtiti<g ref="char:EOLhyphen"/>on had Monopoliz'd to the Clergy alone, robbing the State) and made them <hi>Crown-lands.</hi> For to the Crown all <hi>Deodands</hi> appertain, and I will juſtify it againſt all the Bigots, that they were Lawfully diſpoſed of by Act of Parliament, which in <hi>England</hi> is the only thing that diſtinguiſhes and aſcertains all mens Properties and Liberties, and places all Lawful Land<g ref="char:EOLhyphen"/>marks.</p>
+            <p>Nature makes no diſtinction of <hi>meum</hi> and <hi>tuum,</hi> for Pro<g ref="char:EOLhyphen"/>perty and Right in the Kingdom, is only aſcertain'd, and known by <hi>the Law of the Land.</hi>
+            </p>
+            <p>But, 2dly. How can God be robb'd, except it can be proved that thoſe Church-lands were his, and that he (who hates Robbery for a Burnt-Offering) did ever accept thereof? How can it be prov'd that his word was one of the two words that went to the bargain, when ſuch Holy-lands, and Sacred Perſons were Dedicated to him? Tythes and Offerings were God's Lot, <hi>under the Law;</hi> of which he might have been robb'd, not ſo under the <hi>Goſpel.</hi> Sacred they were only in the <hi>uſe,</hi> whilſt well imployed in the <hi>more immediate</hi> ſervice of God, Divine Service; but the Cha<g ref="char:EOLhyphen"/>racter is not indelible, they ceaſe to be ſo, when
+<pb n="30" facs="tcp:49577:16"/>the <hi>good</hi> and right <hi>uſe</hi> ceaſes, or turns to an <hi>Abuſe,</hi> and never were accepted by God, that we know of, or ever were ac<g ref="char:EOLhyphen"/>knowledged to be <hi>God's peculiar,</hi> eſpecially when purchaſed by <hi>Superſtitious</hi> craft, robbery and fraud; for it is written, Let no man go beyond <hi>(out-wit)</hi> or <hi>defraud his Brother in any matter,</hi> for the Lord is the Avenger of all ſuch.</p>
+            <p>The Magiſtrate is God's Deputy, and the Avenger, and in <hi>England</hi> he has done his Duty, in Redeeming theſe ſuper<g ref="char:EOLhyphen"/>ſtitious Church-lands, reducing them to the <hi>State,</hi> (their <hi>an<g ref="char:EOLhyphen"/>tient Channel</hi>) and who art thou that dareſt to gain-ſay this <hi>Miniſter of God to thee for good? Demas</hi> was <hi>Ordain'd,</hi> but what became of the Indelible Character, when he turn'd an <hi>Apoſtate-Priest</hi> in the Ido!-Temple at <hi>Theſſalonica?</hi>
+            </p>
+            <p>
+               <hi>Julian</hi> (the Emperour) was <hi>once in Holy Orders,</hi> and giv<g ref="char:EOLhyphen"/>en or ordain'd or devoted to God; but, if God had <hi>accepted the gift,</hi> he had not afterwards, by his Apoſtacy, given him<g ref="char:EOLhyphen"/>ſelf to the Devil: but where's the Indelible Character all this while, ſo much boaſted of by the Papiſts, and ſo much pra<g ref="char:EOLhyphen"/>ted of by ſome Proteſtants?</p>
+            <p>Our Holy Religion is of its own ſtore rich enough, with<g ref="char:EOLhyphen"/>out borrowing from Hypocritical dreſſes, or groundleſs and vain Pretences.</p>
+            <p>
+               <hi>Moſes</hi> the chief Magiſtrate Ordain'd his Elder Brother <hi>Aaron</hi> Chief Prieſt, and Nature wrought in him, ſo that he prefer'd all his own Family and Tribe (Ordaining all the Tribe of <hi>Levi,</hi> fit or unfit, even before they were Born) to be <hi>Clergy-men</hi> to the World's end; and gave them not only great Gleabes, but the Tenth (whereas <hi>Levi</hi> was at moſt but the twelfth part of the other Tribes) even of all their La<g ref="char:EOLhyphen"/>bour and Increaſe; the eleven Tribes drudg'd hard to make the Tribe of <hi>Levi</hi> eaſy, I do not ſay, <hi>Lazy.</hi>
+            </p>
+            <p>But under the Goſpel there are no ſuch <hi>entail'd Ordinations,</hi> nor a <hi>Clergy-Tribe;</hi> the Laity and Clergy are now <hi>all of one</hi> Fleſh; and they ought to be all of one mind, which can
+<pb n="31" facs="tcp:49577:16"/>never <hi>be, whilſt</hi> they are <hi>diſtinct</hi> corporations, either in <hi>Fact,</hi> or <hi>Name.</hi>
+            </p>
+            <p>Even <hi>under the Law,</hi> the chief Magiſtrate King <hi>Solomon</hi> deem'd it no Sacriledg to degrade and deprive the High-Prieſt <hi>Abiathar,</hi> and Ordain'd and Inſtall'd in his room one of his own Favourites.</p>
+            <p>Nay, <hi>Moſes</hi> could not ſo monopolize the <hi>Prieſt's Office,</hi> and Church-Benefices and Benefits <hi>to his own</hi> Tribe, but other Tribes put in for a warm ſhare long before <hi>Jeroboam</hi>'s time; one of the Houſe of <hi>Judah</hi> was an Interloper, and got Or<g ref="char:EOLhyphen"/>dination, <hi>Judg.</hi> 17.7. So that, neither the Church-Affairs were Adminiſtred only by the Tribe of <hi>Levi,</hi> nor the chief Ad<g ref="char:EOLhyphen"/>miniſtration and Government in the State was confin'd to the Tribe of <hi>Judah</hi> (as King <hi>David</hi>'s good nature and kind<g ref="char:EOLhyphen"/>neſs to his own Tribe did deſign it) for King <hi>David</hi>'s project laſted not three Generations, <hi>Judah</hi> was the Royal Family during the Reigns of <hi>David</hi> and <hi>Solomon,</hi> but the Scepter <hi>departed from</hi> Judah (by the Revolt of ten of the Tribes) in the Reign of that impolitick <hi>Prince, Rehoboam,</hi> and an <hi>Ephraimite</hi> Reigned in <hi>Jeroboam;</hi> who had the Art, or <hi>King-Craft</hi> to cajole the people, who muſt be pleaſed, or elſe their King's Crown ſits neither <hi>eaſy nor faſt</hi> upon his head; <hi>Jerobo<g ref="char:EOLhyphen"/>am</hi> had the knack of it, whilſt ſilly and Raſh <hi>Rehoboam</hi> was Abdicated; <hi>what portion</hi> (ſay the people) <hi>have we in</hi> David, <hi>neither have we inheritance in the Son of</hi> Jeſſe, <hi>To your Tents, Oh Iſrael! now ſee to thine Houſe, David.</hi>
+            </p>
+            <p>Thus we ſee, that even under the Occonomy of the Old Teſtament neither Offices in the Church nor State were con<g ref="char:EOLhyphen"/>fined to One <hi>Set</hi> of Men, much leſs to ſuch a diſtinct Tribe of <hi>Levi,</hi> or Church-men, diſtinguiſhed and characterized from other men; no, not ſo much as in Habit, Garb or Name.</p>
+            <p>For St. <hi>Peter</hi> (a Fiſher-man) was a Fiſher-man ſtill, even af<g ref="char:EOLhyphen"/>ter he was a Preacher and Fiſher of men; and I doubt not but he wore a Fiſher-man's <hi>Habit, Clothes</hi> and <hi>Garb</hi> ſuitable to his Trade, as did St. <hi>Paul</hi> and the reſt.</p>
+            <pb n="32" facs="tcp:49577:17"/>
+            <p> Nor were Magiſtrates excluded from Degrading, Ordain<g ref="char:EOLhyphen"/>ing or Commiſſionating Church-men, and Depriving them likewiſe; making <hi>Church-men</hi> Stateſmen, and <hi>vice verſa,</hi> Stateſmen <hi>Churchmen,</hi> Miniſters of the Church and State, or <hi>Servants to the State;</hi> for they are not <hi>(as I ſaid before)</hi> two diſtinct Bodies, two diſtinct Corporations, but the Church is a Member and part of the <hi>State;</hi> It was only Popiſh Pride and Antichriſtian Prelacy that advanc'd the <hi>Mitre</hi> above the <hi>Crown.</hi> And all our aucient Statutes (made in the Unhappy Reign of Popery) run in one ſtrain, as if the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was adiſtinct Body from the Kingdom of <hi>England.</hi>
+            </p>
+            <p>Thus the firſt Chapter of <hi>Magna Charta</hi> grants, That the <hi>Church</hi> of <hi>England</hi> ſhall be free, and ſhall have <hi>Her</hi> whole Rights and Liberties inviolable; and 3 <hi>Rich.</hi> 2.1. That <hi>Ho<g ref="char:EOLhyphen"/>ly Church</hi> have and wholly enjoy <hi>Her</hi> Franchiſes and Liber<g ref="char:EOLhyphen"/>ties, by the manner ſhe as hath had, <hi>&amp;c.</hi>
+            </p>
+            <p>What a do is here to maintain this <hi>She?</hi> This <hi>She</hi> (Holy <hi>Church</hi>) can never be meant to be the ſame Body with the <hi>He (the State</hi>) for which cauſe the old Statutes often menti<g ref="char:EOLhyphen"/>on the <hi>Lay-Fec</hi> in oppoſition and diſtinction to <hi>Church-lands.</hi>
+            </p>
+            <p>But it was <hi>never-well</hi> with the King and Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> when this <hi>She</hi> ſtrove to <hi>wear the Britches,</hi> and kept a <hi>Purſe</hi> and <hi>Cupboard by her Self</hi> alone, peculiar and independent of the <hi>He,</hi> the King.</p>
+            <p>For in the days of <hi>yore,</hi> when Popery (or Antichriſtianiſm) was rampant <hi>above all that is called God</hi> (the Magiſtrate) our King <hi>could not,</hi> durſt not hang a Murderer or Traitor if he were a Clergy-man or Church-man, 'till Holy Church was pleaſed to Depoſe, Diſrobe, and <hi>unclergy the Traytor</hi> or Mur<g ref="char:EOLhyphen"/>derer.</p>
+            <p>And if the <hi>King and State</hi> had never ſo much need of Mo<g ref="char:EOLhyphen"/>ney, not a Farthing durſt they <hi>Aſſeſs</hi> this ſame <hi>She</hi> Holy Church in pain of Excommunication; (a terrible Bug in thoſe days, tho <hi>Solomon</hi> ſaid, <hi>The curſe that's cauſeleſs ſhall not come)</hi> and in pain of Tranſgreſſing <hi>Magna Charta,</hi> except
+<pb n="33" facs="tcp:49577:17"/>
+               <hi>She her ſelf</hi> conſented to ſuch Aſſeſſment, in <hi>Convocation;</hi> for which cauſe <hi>Parliaments</hi> and <hi>Convocations</hi> were uſually <hi>Con<g ref="char:EOLhyphen"/>temporaries; So</hi> alſo are they <hi>now,</hi> from <hi>Custome</hi> rather than <hi>uſe,</hi> Convocations being now little more than a <hi>meer formality;</hi> the King and Parliament make bold to paſs ſuch <hi>Royal Aids</hi> in<g ref="char:EOLhyphen"/>to <hi>Acts,</hi> without asking the conſent, <hi>or ſo much as conſulting</hi> the Convocation Houſes, no not ſo much as in matters of <hi>Religion,</hi> little or <hi>no notice</hi> being taken of them. For Noblemen and Gentlemen are now <hi>Book-learn'd,</hi> and generally may entitle themſelves to (K. <hi>Hen.</hi> the firſt's cognomination) <hi>Beau-Clerks:</hi> And the <hi>benefit of the Clergy</hi> (in <hi>Felon's Convict</hi>) is now by <hi>Common-Law</hi> and <hi>Statute-Law</hi> granted in <hi>common</hi> to Lay-men, who alſo have the mercy of the Book; and as the Lay-men are capable of the <hi>benefit of the Clergy,</hi> why not alſo of the <hi>Benefices of the Clergy,</hi> if the King Ordain or <hi>Commiſſionate them?</hi> So alſo <hi>Clergy<g ref="char:EOLhyphen"/>men</hi> are capable of any Benefit in the <hi>State,</hi> if the King <hi>Ordain</hi> or <hi>Commiſſion them thereunto;</hi> even as <hi>they</hi> uſually are <hi>Commiſſion<g ref="char:EOLhyphen"/>ated</hi> in all other kingdoms of the World, whether <hi>Christians</hi> or <hi>Turks, Jews</hi> or <hi>Gentiles.</hi>
+            </p>
+            <p>And every man that is capable may juſtly to himſelf adopt the <hi>Motto</hi> of <hi>Julius Caeſar</hi> (who was <hi>Pope of Rome,</hi> and <hi>Roman Emperor,</hi> both <hi>Pontifex Maximus</hi> and <hi>Imperatour, High-Priest</hi> in the <hi>Church,</hi> and <hi>General</hi> and <hi>Dictator</hi> in the <hi>State,</hi> as famous for his <hi>Sermons</hi> and <hi>Orations,</hi> as for his <hi>Bastails</hi> and <hi>Conqueſts,</hi> as <hi>Elo<g ref="char:EOLhyphen"/>quent</hi> as <hi>Valiant,</hi> renowned for the ſharpneſs of his <hi>Pen,</hi> as his <hi>Pyke,</hi> both for the <hi>Word and Sword</hi>) <hi>ex utro<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </hi>
+            </p>
+            <p>If a man be <hi>able</hi> for <hi>both,</hi> he is <hi>capable</hi> of <hi>both;</hi> this is the com<g ref="char:EOLhyphen"/>mon conſent of all Nations, and therefore ought (in <hi>Cicero</hi>'s Opi<g ref="char:EOLhyphen"/>nion) to be eſteemed <hi>The Law of Nature,</hi> which is never con<g ref="char:EOLhyphen"/>trary to the Law of God. <hi>Omni in re Conſenſio Omnium Genti<g ref="char:EOLhyphen"/>um lex naturae putanda eſt.</hi>
+            </p>
+            <p>All the <hi>Lawyers</hi> in <hi>Iſrael</hi> and <hi>Judah</hi> were <hi>Divines,</hi> and all their <hi>Divines Lawyers;</hi> and ſo it is <hi>at this day,</hi> in all thoſe vaſt Terri<g ref="char:EOLhyphen"/>tories where <hi>Mahomet aniſm</hi> does obtain, and <hi>which</hi> ſpreads more Land (in theſe three beſt Inhabited Parts of the World, <hi>Europe,
+<pb n="34" facs="tcp:49577:18"/>Aſia,</hi> and <hi>Africa</hi>) than <hi>Chriſtianity</hi> and <hi>Gentiliſm</hi> both put together.</p>
+            <p>But to come nearer home, <hi>Leges Angliae</hi> were of old truly ſtiled <hi>Leges Dei;</hi> the Laws of <hi>England</hi> are called <hi>the Laws of God,</hi> not only becauſe they are (for the moſt part) extracted out of <hi>holy-writ,</hi> but becauſe they are the <hi>Long-approved</hi> dictates of <hi>right Reaſon, the only Image of God,</hi> in which man was Created; And can it be improper for a <hi>Divine</hi> to be well-skill'd in the moſt lively Draughts of his Maker's likeneſs?</p>
+            <p>The <hi>groſs</hi> or <hi>ſupine</hi> ignorance of our <hi>Engliſh Laws</hi> and <hi>Con<g ref="char:EOLhyphen"/>ſtitutions</hi> gave vent to thoſe Flaguy-Doctrines of <hi>Non-reſiſtance</hi> and <hi>Abſolute and Arbitrary Government</hi> (after the mode of <hi>France</hi>) in Loanes, <hi>Free-quarter, Shipmony,</hi> &amp;c. during the unhapy Mi<g ref="char:EOLhyphen"/>niſtry of <hi>Buckingham, Strafford</hi> and <hi>Laud,</hi> that countenanc'd thoſe two <hi>Court-Paraſites</hi> and <hi>Ear-wigs (Mountague</hi> and <hi>Man<g ref="char:EOLhyphen"/>waring</hi>) who poyſon'd the Ears of <hi>Charles</hi> I. with ſuch infect<g ref="char:EOLhyphen"/>ious Doctrines that prov'd to be ſo fatal to the <hi>King</hi> and <hi>three Kingdoms.</hi> 'Tis true, indeed, both <hi>Mountaigne</hi> and <hi>Man<g ref="char:EOLhyphen"/>waring</hi> were doom'd and condemn'd for the ſame in open Par<g ref="char:EOLhyphen"/>liament, <hi>Sentenc'd</hi> and <hi>Fin'd,</hi> and made incapable of all <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtical Benefices</hi> and <hi>Promotions.</hi>
+            </p>
+            <p>But the <hi>Parliament</hi> was no ſooner diſſolved, but they were (both of them) puniſh'd with two <hi>Fat Biſhopricks,</hi> but of fatal conſequence.</p>
+            <p>For duckoy'd and drill'd on with ſuch like hopes of Prefer<g ref="char:EOLhyphen"/>ment, a numerous crowd of <hi>Tories</hi> and <hi>Tantivees,</hi> in the three late Reigns, trod in <hi>Manwaring</hi>'s <hi>ſteps</hi> in hopes thereby of <hi>Man<g ref="char:EOLhyphen"/>waring</hi>'s <hi>Fate.</hi>
+            </p>
+            <p>
+               <hi>Which</hi> (yet) was not worth the <hi>aſpiring unto,</hi> for he did not long enjoy the Fruits of his Court-Sycophantry; but dyed poor and an <hi>Heterodox-Divine,</hi> becauſe he was not an <hi>Orthodox-Lawyer.</hi> And was therefore condemn'd by the <hi>Parliament</hi> as <hi>unfit for the Church,</hi> becauſe he was ſo <hi>ignorant of the Laws of the Land, (a fault unpardonable in a Divine of the Church of</hi> England, <hi>who wants the one half of his Trade, or Profeſſion, and is not compleat</hi> Maſter <hi>of his</hi> Art, without good knowledg in the Laws Mu<g ref="char:EOLhyphen"/>nicipal.)</p>
+            <pb n="35" facs="tcp:49577:18"/>
+            <p> Thus have I ſhown, That the <hi>Lay-Clergy</hi> is but <hi>one goodword,</hi> and a <hi>Lay-Elder</hi> (in this ſence) no <hi>Centaur,</hi> but (though <hi>a great rarity)</hi> The moſt <hi>Accompliſh't Divine,</hi> and <hi>able for</hi> (and there<g ref="char:EOLhyphen"/>fore <hi>capable of)</hi> Secular Authorities, and of both Provinces; or (if you pleaſe) or rather (if the <hi>King</hi> pleaſe) they make <hi>but one good Province.</hi>
+            </p>
+            <p>But whether, <hi>ſuch a Divine</hi> thinks it <hi>expedient</hi> to accept there<g ref="char:EOLhyphen"/>of, is a <hi>Second Queſtion.</hi>
+            </p>
+            <p>For he is accounted the wiſeſt Divine (at leaſt) one that beſt conſults his own welfare and repoſe, who withdraws himſelf from the Crowd and Buſtle of this ſilly World betimes, before he be ſo far engag'd that all Return is impracticable, and no fair way left for an honourable and ſafe retreat.</p>
+            <p>It is eaſy to get into Place, not ſo eaſy to ſtay in, but much more difficult, when plung'd in, to ſcramble out.</p>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>Pro Captu Lectoris habent ſua fata Libelli.
+<q>
+                     <l>
+                        <hi>Books have their fates, they hit, they miſs;</hi>
+                     </l>
+                     <l>
+                        <hi>Juſt as the Reader's Palate is;</hi>
+                     </l>
+                     <l>
+                        <hi>And what does</hi> one <hi>man's</hi> Guſto <hi>pleaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Is to another a Diſeaſe.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Or, in <hi>Burleſque,</hi> thus,
+<q>
+                     <l>Each <hi>Book has</hi> ſeveral <hi>fates,</hi> Videlicet,</l>
+                     <l>
+                        <hi>Even as the Readers pleaſe to reliſh it.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Thus have I, <hi>gentle Reader,</hi> with good and honeſt deſign, en<g ref="char:EOLhyphen"/>deavour'd to demoliſh that <hi>Partition-wall</hi> (betwixt Church and State, Layety and Clergy) <hi>erected</hi> by <hi>Popiſh</hi> and Prelatical pride, <hi>making</hi> the Church and <hi>Churchmen</hi> a Body and Corporation <hi>di<g ref="char:EOLhyphen"/>ſtinct from the State,</hi> and driving on <hi>ſeveral</hi> and oppoſite Ends and Deſigns; whereas they ſhould be United and go <hi>hand in hand;</hi> or rather are indeed <hi>one and the ſame</hi> (or ought to be ſo) <hi>in a Chriſtian State:</hi> As the <hi>King</hi> is head of the <hi>State,</hi> ſo is he alſo
+<pb n="36" facs="tcp:49577:19"/>recognized to be the <hi>Head of the Church,</hi> 26. <hi>Hen.</hi> 8.1. What? <hi>Two</hi> Bodies to <hi>one</hi> head? Out upon't; 'tis <hi>Monstrous;</hi> I cannot abide to ſee it.</p>
+               <p>And herein, if I have not pleaſed <hi>thee,</hi> I have done my en<g ref="char:EOLhyphen"/>deavour, and therein have pleaſed <hi>my ſelf.</hi>
+               </p>
+               <p>And if I be in an Error, it is one of the moſt <hi>harmleſs</hi> in theſe <hi>mad</hi> times, wherein
+<q>
+                     <l>—<hi>Quis non molitur inepte?</hi>
+                     </l>
+                     <l>
+                        <hi>Nullum magnum Ingenium ſine mixtura dementioe.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>
+                        <hi>A Worm or Magot (in the Head</hi>
+                     </l>
+                     <l>
+                        <hi>Of the moſt ſubtle man) is bred.</hi>
+                     </l>
+                     <l>
+                        <hi>Wiſemen</hi> (at ſome odd hours) <hi>we ſee,</hi>
+                     </l>
+                     <l>
+                        <hi>Have ſome</hi> ſhort fits <hi>of Lunacy;</hi>
+                     </l>
+                     <l>
+                        <hi>And every skull (all muſt confeſs)</hi>
+                     </l>
+                     <l>
+                        <hi>Has a</hi> ſoft place in't, <hi>more or leſs.</hi>
+                     </l>
+                  </q>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>☞ <hi>THE Letter</hi> written by Sir <hi>D<g ref="char:V">Ʋ</g>NCOMB COLCHESTER</hi> a little before his Death; containing his Remarkable <hi>Inſtance</hi> (which Letter was read publickly by his order, in the Pariſh Churches of <hi>Michael-Dean</hi> and <hi>Weſtbury</hi>) is now Publiſht, with other late inſtances of that Nature. All which are annext to Mr. <hi>T<g ref="char:V">Ʋ</g>RNER</hi>'s <hi>Eſſay upon the Works of Creation and Providence,</hi> lately publiſhed: To this <hi>ESSAY</hi> is added a <hi>SCHEME</hi> of the <hi>Hiſtory of Remarkable Providences</hi> (now preparing for the Preſs.) As alſo a large <hi>SPECIMEN</hi> of that Work. Price bound 2 s.— Both Printed for <hi>John Dunton,</hi> at the <hi>Raven</hi> in <hi>Jewen-street.</hi> And may alſo be had of <hi>Edm. Richardſon</hi> near the <hi>Poultrey-Church.</hi>
+            </p>
+            <p>☞ If any <hi>Miniſters VVidow,</hi> or other perſon, have any Library, or parcel of books to diſpoſe of, if they will ſend a Catalogue of them, or notice where they are, to <hi>John Dunton,</hi> at the <hi>Raven</hi> in <hi>Jewen-ſtreet,</hi> they ſhall have ready mony for them, to the full of what they are worth.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
